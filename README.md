@@ -1,2 +1,2 @@
 # django-highlite
-Simple, non-intrusive, syntax highlighting and keyboard shortcuts for Sublime Text 3 Django templates.
+Simple, non-intrusive, syntax highlighting and keyboard shortcuts for Django templates in Sublime Text 3.
