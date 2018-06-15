@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{% comment %}
+	${1:$SELECTION}
+{% endcomment %}
+]]>	</content>
+    <tabTrigger>comment</tabTrigger>
+    <scope>text.html.django</scope>
+    <description>comment</description>
+</snippet>
